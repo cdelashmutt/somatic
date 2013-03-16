@@ -1,9 +1,9 @@
 Somatic
 =======
 
-A utility to create full and linked clones of VMs from VMware Fusion.
-
 Somatic allows you to create full and linked clones similar to the VMware Workstation product for Windows.  Before cloning, make sure the source VM is stopped, or an invalid clone may occur.
+
+If you just want to grab the latest stable binary, then go to http://www.grogscave.net/somatic.
 
 The linked cloning capability was inspired by a screencast by Jean-Paul S. Boodhoo at http://blog.developwithpassion.com/2012/04/17/screencast-creating-linked-clones-with-vmware-fusion/ that showed how to do linked clones with an older version of Fusion.  I was able to translate the process to Fusion 5 and the result is the Somatic utility.
 
