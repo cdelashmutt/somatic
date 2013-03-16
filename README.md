@@ -13,4 +13,6 @@ For linked clones, you must have at least one snapshot of the source VM for the 
 
 Hopefully you find this utility useful, but please don't blame me if it melts your laptop, drinks your last beer, or runs off with your girlfriend.  I've tested it on my laptop with Fusion 5 on OS X 10.8.2, but you may encounter a problem.  If so, feel free to open an issue.  Even better, fork my repo, and create a pull request with the fix. ;)
 
+This utility was written with Apple's Applescript utility.
+
 Thanks and enjoy!
